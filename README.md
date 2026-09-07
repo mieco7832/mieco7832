@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mieco7832
-- 👀 I’m interested in Java programming: JSTL, JSF, Springfaces mvc, Hibernate; Other languages like NodeJS, TypeScript, PHP, Javascript, JQuery, Ajax, HTML5, CSS3, PLSQL, RPGLE, SQLRPGLE, Kotlin
-- 🌱 I’m currently learning RPG and SQLRPGLE
-- 💞️ I’m looking to collaborate on Java projects
+- 👀 I’m interested in Java programming: Spring Boot, JSTL, JSF, Springfaces mvc, Hibernate; Other languages like NodeJS, TypeScript, PHP, Javascript, JQuery, Ajax, HTML5, CSS3, PLSQL, RPGLE, SQLRPGLE, Kotlin, Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Java projects, RPGLE y SQLRPGLE
 - 📫 How to reach me mune.castillo32@gmail.com
 
 <!---
